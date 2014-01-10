@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMeeting", "TeamMeeting\TeamMeeting.csproj", "{D9A314A4-3E32-4B77-A58B-F0927755107C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMeetingDAL", "TeamMeetingDAL\TeamMeetingDAL.csproj", "{E4ABF2DE-73D5-4316-AAD4-65187CF7140C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMeetingBLL", "TeamMeetingBLL\TeamMeetingBLL.csproj", "{E76F818D-B3CD-4FB8-B47F-7D96A024C133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMeetingBOL", "TeamMeetingBOL\TeamMeetingBOL.csproj", "{84063377-6407-4150-B744-3EECC2D49955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A314A4-3E32-4B77-A58B-F0927755107C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A314A4-3E32-4B77-A58B-F0927755107C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A314A4-3E32-4B77-A58B-F0927755107C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A314A4-3E32-4B77-A58B-F0927755107C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4ABF2DE-73D5-4316-AAD4-65187CF7140C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4ABF2DE-73D5-4316-AAD4-65187CF7140C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4ABF2DE-73D5-4316-AAD4-65187CF7140C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4ABF2DE-73D5-4316-AAD4-65187CF7140C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76F818D-B3CD-4FB8-B47F-7D96A024C133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76F818D-B3CD-4FB8-B47F-7D96A024C133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76F818D-B3CD-4FB8-B47F-7D96A024C133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76F818D-B3CD-4FB8-B47F-7D96A024C133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84063377-6407-4150-B744-3EECC2D49955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84063377-6407-4150-B744-3EECC2D49955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84063377-6407-4150-B744-3EECC2D49955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84063377-6407-4150-B744-3EECC2D49955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
